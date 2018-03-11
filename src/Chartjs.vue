@@ -70,7 +70,7 @@ export default {
 }
 </script>
 
-<style lang="scss">
+<style lang="css">
   canvas.chartjs {
     max-width: 100%;
   }
